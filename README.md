@@ -31,7 +31,7 @@ This repository demonstrates my expertise in **designing, building, and automati
 `tFileInputDelimited`, `tMap`, `tJoin`, `tAggregateRow`, `tPostgresqlOutput`
 
 **Data Flow:**  
-`Raw Files → Transformation (tMap/tJoin) → SCD Merge → Target Warehouse`
+`Raw Files → Transformation (tMap/tJoin) → Target Warehouse`
 
 ---
 
