@@ -1,0 +1,4 @@
+payment_id,loan_id,amount_paid,payment_date
+P901,L101,10000,2023-09-01
+P902,L101,10000,2023-10-01
+P903,L103,15000,2023-09-10

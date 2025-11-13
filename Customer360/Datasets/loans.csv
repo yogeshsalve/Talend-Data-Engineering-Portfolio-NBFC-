@@ -1,0 +1,4 @@
+loan_id,customer_id,loan_type,amount,status,disbursal_date
+L101,C001,Personal,500000,Active,2023-08-01
+L102,C002,Business,1200000,Closed,2022-11-10
+L103,C003,Personal,800000,Active,2023-07-15
